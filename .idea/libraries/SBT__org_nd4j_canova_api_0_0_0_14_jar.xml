@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: org.nd4j:canova-api:0.0.0.14:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.nd4j/canova-api/jars/canova-api-0.0.0.14.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

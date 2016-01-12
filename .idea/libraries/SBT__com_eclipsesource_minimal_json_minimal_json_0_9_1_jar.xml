@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: com.eclipsesource.minimal-json:minimal-json:0.9.1:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.eclipsesource.minimal-json/minimal-json/bundles/minimal-json-0.9.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

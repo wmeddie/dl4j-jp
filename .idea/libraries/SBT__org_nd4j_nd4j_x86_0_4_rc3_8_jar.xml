@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: org.nd4j:nd4j-x86:0.4-rc3.8:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.nd4j/nd4j-x86/jars/nd4j-x86-0.4-rc3.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

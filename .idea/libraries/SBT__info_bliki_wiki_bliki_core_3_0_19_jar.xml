@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: info.bliki.wiki:bliki-core:3.0.19:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/info.bliki.wiki/bliki-core/jars/bliki-core-3.0.19.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

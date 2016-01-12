@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: org.fusesource:sigar:1.6.4:native:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.fusesource/sigar/jars/sigar-1.6.4-native.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

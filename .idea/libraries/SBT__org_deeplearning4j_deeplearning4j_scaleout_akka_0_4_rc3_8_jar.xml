@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: org.deeplearning4j:deeplearning4j-scaleout-akka:0.4-rc3.8:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.deeplearning4j/deeplearning4j-scaleout-akka/jars/deeplearning4j-scaleout-akka-0.4-rc3.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
